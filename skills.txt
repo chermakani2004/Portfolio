@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio-Chermakani</title>
+    <link rel="stylesheet" href="style1.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="icon" href="image.jpg">
+</head>
+<body>
+<div class="main">
+    <div class="sidebar">
+        <div class="links">
+          <div class="fmedium">
+          <img class="image" src="C:\Users\kani7\Pictures\image.jpg" alt="" >
+            <h2>Chermakani K</h2>
+          </div>
+            <div class="medium">
+              <div class="icons">
+                <i class='bx bxl-github'></i>
+                <i class='bx bxl-linkedin'></i>
+                <i class='bx bx-envelope'></i>
+           </div>
+             <div class="nav-items">
+                <a class="navigate" href="index.html">Home</a>
+                <a class="navigate" href="about.html">About</a>
+                <a class="navigate" href="skills.html">Skills</a>
+                <a class="navigate" href="project.html">Project</a>
+                <a class="navigate" href="certificates.html">Certificates</a>
+             </div>
+            </div>
+            </div>
+        </div>
+        </div>
+            <div class="skill">
+             <div class="skills">
+              
+              <h1>My Skills</h1>
+              <div class="tech-skill">
+                  <div class="box">
+                  
+                <div class="skill-right">
+                    <div class="line anim first">
+                      <div class="info ">
+                        <span><i class='bx bxl-html5'></i>HTML</span>
+                        <SPan>90%</SPan>
+                      </div>
+                      <div class="bars html"></div>
+                    </div>
+
+                   
+                      <div class="line anim second">
+                        <div class="info">
+                          <span><i class='bx bxl-css3' ></i>CSS</span>
+                          <SPan>70%</SPan>
+                        </div>
+                        <div class="bars css"></div>
+                      </div>
+
+                     
+                        <div class="line anim third">
+                          <div class="info">
+                            <span><i class='bx bxl-javascript' ></i>Javascript</span>
+                            <SPan>65%</SPan>
+                          </div>
+                          <div class="bars js"></div>
+                        </div>
+
+                        
+                          <div class="line anim four">
+                            <div class="info">
+                              <span><i class='bx bxl-bootstrap' ></i>Bootstrab</span>
+                              <SPan>80%</SPan>
+                            </div>
+                            <div class="bars btsb"></div>
+                          </div>
+
+                          
+                            <div class="line anim five">
+                              <div class="info">
+                                <span><i class='bx bxl-git'></i>Git</span>
+                                <SPan>75%</SPan>
+                              </div>
+                              <div class="bars git"></div>
+                            </div>
+
+                           
+                              <div class="line anim six">
+                                <div class="info">
+                                  <span><i class='bx bx-data'></i>SQL</span>
+                                  <SPan>80%</SPan>
+                                </div>
+                                <div class="bars sql"></div>
+                              </div>
+
+                              <div class="line anim seven">
+                                <div class="info">
+                                  <span><i class='bx bxl-python' ></i>Python</span>
+                                  <SPan>60%</SPan>
+                                </div>
+                                <div class="bars py"></div>
+                              </div>
+
+                              <div class="line anim eight">
+                                <div class="info">
+                                  <span><i class='bx bxl-java' ></i>JAVA</span>
+                                  <SPan>65%</SPan>
+                                </div>
+                                <div class="bars java"></div>
+                              </div>
+                            </div> </div>
+                </div>
+                </div>
+            </div>
+          </div>
+        </body>
+        </html

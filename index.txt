@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+        <title>portfolio-Chermakani</title>
+
+        <link rel="stylesheet" href="style1.css">
+        <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+        <link rel="icon" href="image.jpg">
+
+
+    </head>
+    <body>
+        <div class="main">
+            <div class="sidebar">
+                <div class="links">
+                    <div class="fmedium">
+                        <img class="image" src="C:\Users\kani7\Pictures\image.jpg" alt="">
+                        <h2>Chermakani k</h2>
+                    </div>
+                    <div class="medium">
+                        <div class="icons">
+                            <a href="https://github.com/"><i class='bx bxl.github'></i></a>
+                            <a href="https://www.linkedin.com/posts/cherma-kani-66977a293_i-have-successfully-completed-my-project-activity-7198574247395430401-vPLB?utm_source=share&utm_medium=member_android"><i class='bx bxl-linkedin'></i></a> <i class='bx bxl-linkedin'></i></a>
+                            <i class='bx bx-envelope'></i>
+                        </div>
+                        <div class="nav-items">
+                            <a class="navigate" href="index.html">Home</a>
+                            <a class="navigate" href="about.html">About</a>
+                            <a class="navigate" href="Skills.html">Skills</a>
+                            <a class="navigate" href="Project.html">Project</a>
+                            <a class="navigate" href="Certificate.html">Certificates</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="main-bar">
+                <div class="content">
+                    <div class="main-content">
+                        <h1>Welcome to Chermakani's portfolio</h1>
+                        <h3>Hello I am Chermakani</h3>
+                        <h2 class="need">I am passionate about Full Stack development.</h2>
+                        <p> Having an experience of building web and mobile applications with JavaScript and some other cool libraries and frameworks.</p>
+                        <div class="btn">
+                            <button>Resume &nbsp;<i class='bx bx-chevron-down-circle'></i></button>
+                            <button><a href="contact.html">Contact &nbsp;<i class='bx bx-envelope'></i></a></button>
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="about">
+            <div class="break">
+                <div class="about-content">
+                    <h1 class="anim first">ABOUT ME</h1>
+                    <h3 style="color:black" class="anim second">I am a passionate full-stack developer with a love for creating seamlessweb experiences.</h1>
+
+                </div>
+            </div>
+        </div>
+        <br>
+        <div class="skill">
+            <div class="skills">
+                <h1>MY Skills</h1>
+                <div class="tech-skill">
+                    <div class="box">
+                        <div class="skill-rigth">
+                            <div class="line anim first">
+                                <div class="info">
+                                    <span><i class='bx bxl-html5'></i>HTML</span>
+                                    <5pan>95%</5pan>
+
+
+                                </div>
+                                <div class="bars html"></div>
+                            </div>
+                            <div class="line anim second">
+                                <div class="info">
+                                    <span><i class='bx bxl-css3'></i>CSS</span>
+                                    <5pan>80%</5pan>
+                                </div>
+                                <div class="bars css"></div>
+
+                        </div>
+                        <div class="line anim third">
+                            <div class="info">
+                                <span><i class='bx bxl-javascript'></i>JavaScript</span>
+                                <5pan>73%</5pan>
+
+                            </div>
+                            <div class="bars js"></div>
+                        </div>
+                        <div class="line anim four">
+                            <div class="info">
+                                <span><i class='bx bxl-bootstrap'></i>python</span>
+                                <5pan>60%</5pan>
+                            </div>
+                            <div class="bars pyt"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <br>
+            <div class="project">
+                <div class="project-inner">
+                  
+                  <div class="inside">
+                    <div class="project-head">
+                    <h1>Projects</h1>
+                  </div>
+                  <!--Project first row using class-one-->
+                  <div class="one">
+                    <div class="pro-img">
+                     <img class="anim coff" src="coffeee.jpg" alt="">
+                     <div class="pro-content">
+                      <h1>COFFEE BREAK </h1>
+                     <p>Creating coffee shop website using html,css,javascript</p>
+                     <a href="https://coffeebreaksite.netlify.app/"><i class='bx bx-link-external'></i></a>
+                    </div>
+                  </div>
+          
+                  <div class="pro-img">
+                    <img class="anim coff" src="calcii.png" alt="" >
+                    <div class="pro-content">
+                      <h1>CALCULATOR</h1>
+                     <p>Calculator created by me using html,css,javascript</p>
+                     <a href="https://github.com/chermakani2004/calculator.git"><i class='bx bx-link-external'></i></a> 
+                    </div>
+                 </div>
+          
+                 <div class="pro-img">
+                  <img class="anim coff" src="login.png" alt="" >
+                  <div class="pro-content">
+                    <h1>LOGIN PAGE</h1>
+                   <p>Facebook Login page clone</p> 
+                   <a href="https://facebok-login-clone.netlify.app/"><i class='bx bx-link-external'></i></a>
+                  </div>
+               </div>
+               </div>
+          
+          <!--Project second row using class-one-->
+          <div class="one">
+               <div class="pro-img">
+                <img class="anim cof coff" src="blogout.png" alt="" >
+                <div class="pro-content">
+                  <h1>BLOG LAYOUT</h1>
+                 <p>Blog Layout created using Bootstramp</p> 
+                 <a href="https://main--bloglayoutsample.netlify.app/"><i class='bx bx-link-external'></i></a>
+                </div>
+             </div>
+          
+             <div class="pro-img">
+              <img class="anim cof coff" src="convert.png" alt="" >
+              <div class="pro-content">
+                <h1>LENGTH CONVERTOR</h1>
+               <p>Convertor created using html,css,javascript</p>
+               <a href="https://lengthconvertor.netlify.app/"><i class='bx bx-link-external'></i></a> 
+              </div>
+           </div>
+          
+           <div class="pro-img">
+            <img class="anim cof coff" src="Landing page.png" alt="" >
+            <div class="pro-content">
+              <h1>LANDING PAGE</h1>
+             <p>Landing page created using html,css</p>
+             <a href="https://github.com/chermakani2004/landing-page.git"><i class='bx bx-link-external'></i></a> 
+            </div>
+          </div>
+          </div>         
+          </div>
+          </div>
+          </div>
+          <br>
+          
+          <!--Certification section-->
+           <div class="mainbar">
+           <div class="certificate">
+           <div class="certi">
+             
+            <div class="certi-inside">
+             <h1>My Certificates</h1>
+              <div class="certi-first">
+                
+              <div class="certi-img">
+               <img class="anim coff" src="ht.jpg" alt="">
+              </div>
+              <div class="certi-img">
+                <img class="anim coff" src="css in.jpg" alt="">
+               </div>
+               <div class="certi-img">
+                <img class="anim coff" src="js.jpg" alt="">
+               </div>
+              </div>
+          
+              <div class="certi-first">
+                <div class="certi-img">
+                 <img class="anim cof coff" src="web.jpg" alt="">
+                </div>
+                <div class="certi-img">
+                  <img class="anim cof coff" src="sql project.jpg" alt="">
+                 </div>
+                 <div class="certi-img">
+                  <img class="anim cof coff" src="c .jpg" alt="">
+                 </div>
+                </div>
+          
+                <div class="certi-first">
+                  <div class="certi-img">
+                   <img class="anim co coff" src="javac.jpg" alt="">
+                  </div>
+                  <div class="certi-img">
+                    <img class="anim co coff" src="j inter.jpg" alt="">
+                   </div>
+                   <div class="certi-img">
+                    <img class="anim co coff" src="powerpoint.jpg" alt="">
+                   </div>
+                  </div>
+                </div>
+            </div>
+          </div>
+          </div>
+          <br>
+          
+          <!--Contact Page-->
+          <div class="mainbarr">
+            <div class="contact-form">
+             <div class="contact">
+              <div class="user-detail">
+                 
+                <div class="form">
+                 <form >
+                  <h1>GET IN TOUCH</h1>
+                  <div class="name">
+                  <input type="text" placeholder="Enter your name" required>
+                  <input type="text" placeholder="Enter your email" required>
+                </div>
+                <div class="mobile">
+                  <input type="text" placeholder="Enter your name" required>
+                  <input type="text" placeholder="Enter your email" required>
+                </div>
+                <div class="msg">
+                 <textarea id="message" rows="8"></textarea>
+                 <label for="message">Enter Your message</label>
+                </div>
+                <div class="submit">
+                  <button>Submit</button>
+                </div>
+                 </form>
+                </div>
+                </div>
+              </div>
+              
+            </div>
+          </div>
+           
+          </body>
+          
+          </html>
+          
+        

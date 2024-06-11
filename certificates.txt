@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio-Chermakani</title>
+    <link rel="stylesheet" href="style1.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="icon" href="image.jpg">
+</head>
+
+<body>
+    
+    <div class="main">
+       <div class="sidebar">
+          <div class="links">
+            <div class="fmedium">
+            <img class="image" src="C:\Users\kani7\Pictures\image.jpg" alt="photo" >
+              <h2>Chermakani K</h2>
+            </div>
+              <div class="medium">
+                <div class="icons">
+                 <a href="https://github.com/chermakani2004/Portfolio.git" ><i class='bx bxl-github'></i></a>
+                  <a href="https://www.linkedin.com/posts/cherma-kani-66977a293_i-have-successfully-completed-my-project-activity-7198574247395430401-vPLB?utm_source=share&utm_medium=member_android"><i class='bx bxl-linkedin'></i></a>
+                  <i class='bx bx-envelope'></i>
+             </div>
+               <div class="nav-items">
+                  <a class="navigate" href="index.html">Home</a>
+                  <a class="navigate" href="about.html">About</a>
+                  <a class="navigate" href="skills.html">Skills</a>
+                  <a class="navigate" href="project.html">Project</a>
+                  <a class="navigate" href="certificates.html">Certificates</a>
+               </div>
+              </div>
+            </div>
+        </div>
+        </div>
+        <div class="mainbar">
+            <div class="certificate">
+            <div class="certi">
+              
+             <div class="certi-inside">
+              <h1>My Certificates</h1>
+               <div class="certi-first">
+                 
+               <div class="certi-img">
+                <img class="anim coff cert" src="C:\Users\kani7\Pictures\photo\ht.jpg" alt="ht.jpg">
+               </div>
+               <div class="certi-img">
+                 <img class="anim coff cert" src="C:\Users\kani7\Pictures\photo\css.jpg" alt="css.jpg">
+                </div>
+                <div class="certi-img">
+                 <img class="anim coff cert" src="C:\Users\kani7\Pictures\photo\js.jpg" alt="js.jpg">
+                </div>
+               </div>
+           
+               
+                    </div>
+                   </div>
+                 </div>
+             </div>
+           
+    
+           </body></html>

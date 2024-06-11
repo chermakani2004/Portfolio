@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio-Chermakani</title>
+    <link rel="stylesheet" href="style1.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="icon" href="image.jpg">
+</head>
+<body>
+    <div class="main">
+    <div class="sidebar">
+        <div class="links">
+          <div class="fmedium">
+          <img class="image" src="C:\Users\kani7\Pictures\image.jpg" alt="" >
+            <h2>Chermakani k</h2>
+          </div>
+            <div class="medium">
+              <div class="icons">
+                <i class='bx bxl-github'></i>
+                <i class='bx bxl-linkedin'></i>
+                <i class='bx bx-envelope'></i>
+           </div>
+             <div class="nav-items">
+                <a class="navigate"href="index.html">Home</a>
+                <a class="navigate"href="about.html">About</a>
+                <a class="navigate"href="skills.html">Skills</a>
+                <a class="navigate"href="project.html">Project</a>
+                <a class="navigate"href="certificates.html">Certificates</a>
+             </div>
+            </div>
+            </div>
+        </div>
+        <div class="main-bar">
+           
+               
+          <div class="about">
+            <div class="break">
+              <div class="about-content">
+                
+                <h1 class="anim first">ABOUT ME</h1>
+             
+                     <h3 style="color:black" class="anim second">I am a passionate full-stack developer with a love for creating seamless web experiences. 
+      
+                    </h3>
+               </div>
+            </div>
+           
+            </div>
+            
+</body>
+</html>
